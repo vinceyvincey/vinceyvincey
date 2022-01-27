@@ -1,6 +1,6 @@
 ### Hi / Hola 👋
 
-I'm Vicente, a PhD student at the National Graphene Institute (University of Manchester, UK). My research focuses on the characterisation and application of 2D materials (such as graphene) to polymer composites.
+I'm Vicente, a PhD student at the National Graphene Institute (University of Manchester, UK). My research is on the characterisation and application of 2D materials (such as graphene) to polymer composites.
 
 
 
