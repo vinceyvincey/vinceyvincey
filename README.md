@@ -2,6 +2,7 @@
 
 I'm Vicente, a PhD student at the [National Graphene Institute](https://www.graphene.manchester.ac.uk/ngi/about/) (University of Manchester, UK). My research is on the characterisation and application of 2D materials (such as graphene) to polymer composites.
 
+I've been interested in programming since leaving high school: While working as a student process engineer at [Syngenta](https://www.syngenta.co.uk/huddersfield), I used LISP to automate line reading for P&ID CAD files, and created data visualisations in R to help with new equipment comissioning. Following that at University, I used MATLAB to model a reactor for my design project.
 
 
 <!--
